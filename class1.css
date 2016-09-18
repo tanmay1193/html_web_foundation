@@ -1,0 +1,40 @@
+h1, h3
+		{
+			color:white; 
+			text-align:center;
+			text-decoration:underline;
+		}
+		
+		.topmenu
+		{
+			background-color:gray;
+			font-family:"Times New Roman";
+			font-size: 24;
+			color: white;
+			width: 100%;
+			vertical-align: center;
+			text-align: center;
+		}
+		
+		ol,ul
+		{
+			color:white;
+		}
+		
+		p
+		{
+			color:white;
+			background-color:gray;
+		}
+		
+		table,th,td
+		{
+			border:1px solid white;
+			border-collapse:collapse;
+		}
+		
+		th,td
+		{
+			text-align:center;
+			color:white;
+		}		
